@@ -1,5 +1,5 @@
 // URL zu deinen Realdaten
-const csvUrl = "https://raw.githubusercontent.com/xxx/Julias-Charts-Data/refs/heads/main/2026/June/stacked.csv";
+const csvUrl = "https://raw.githubusercontent.com/JBreitenbr/Julias-Charts-Data/refs/heads/main/2026/June/stacked.csv";
 
 // Konfigurationen für die beiden Modi im Dropdown
 const modes = {
